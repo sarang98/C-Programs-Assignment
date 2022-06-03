@@ -2,6 +2,6 @@
 
 * Name : C Programming
 * Type : Assignment
-* Institude : C-DAC hydrabad
+* Institute : C-DAC hyderabad
 
 * Note : There is no assignment as day 1
